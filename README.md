@@ -1,16 +1,13 @@
-## Hi there 👋
+## ¿What is IPTV Hydra?
 
-<!--
-**iptv-hydra/iptv-hydra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These are M3U players for all countries in Latin America, Europe, and Asia (including Australia). Your lists will be available through IPTV Hydra + International Channels.
 
-Here are some ideas to get you started:
+To add your list to your IPTV application, you need to choose one of our playlists, which are available on our website. Then you name it however you want and that's it, your channels will be right there with IPTV Hydra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Countries included
+
+
+## The Best Sport
+
+You can watch sports with this M3U playlist which includes all sports channels (including those from other countries).
+
