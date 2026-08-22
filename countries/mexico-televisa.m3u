@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TLN Novelas" tvg-logo="https://i.imgur.com/Rvm38Mu.png" group-title="Novels",TLN Novelas
+http://209.14.115.253:8081/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="humor",Distrito Comedia
+http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-name="Golden" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Movies",Golden
+http://209.14.115.253:8081/GOLDEN/index.m3u8
+#EXTINF:-1 tvg-name="Golden Edge" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Movies",Golden Edge
+http://209.14.115.253:8081/GOLDEN-EDGE/index.m3u8
+#EXTINF:-1 tvg-name="De Pelicula" tvg-logo="https://i.imgur.com/BIYymcb.png" group-title="Movies",De Pelicula
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-name="Bitme" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Kids",Bitme
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-name="Telehit Musica" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="Music",Telehit Musica
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
+#EXTINF:-1 tvg-name="Cine latino" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Movies",Cine latino
+http://45.162.193.35/CINELATINO_HD/index.m3u8
