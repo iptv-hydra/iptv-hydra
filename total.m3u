@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="National",RTV
+https://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="National",Indosiar
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="National",SCTV
+https://starcius-cinema.com/12042/index.m3u8
+#EXTINF:-1 tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="National",TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/960px-Trans_TV_2013.svg.png" group-title="National",Trans TV
+https://www.transtv.co.id/live
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="National",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w495377612_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="Undefined",ANTV
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="Undefined",RCTI
+https://mncmedia.malingtv.workers.dev/rcti.m3u8
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="Undefined",MNC TV
+https://mncmedia.malingtv.workers.dev/mnctv.m3u8
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="Undefined",GTV
+https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTINF:-1 tvg-name="iNews" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="News",iNews
+https://mncmedia.malingtv.workers.dev/inews.m3u8
+#EXTINF:-1 tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" group-title="News",TVOne
+https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://i.imgur.com/IpYxSr1.png" group-title="National",Canal 5
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://i.imgur.com/LowlfG2.png" group-title="National",Canal 10
+https://vxlive.cdn.antel.net.uy/auth_livesignal_474,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDc0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MjE5MDM2ODImcmFuZG9tPVR2V0VTODRTckUmYy 1pcD0xNzcuMjcuMjUxLjI0Niw3YzhmODgxODk0YzMxNDkxYTYwZjUxODcyMWRmMmNmYjUzNWQwOWI2ZGE0NWI5YzA0OTMyNjgwOWYzOTQ0OTlh/vxfmt=hls/h_4e87ba91e00e1eff7a40be8574baa630/var3000000/playlist.m3u8RTckUmYy 1pcD0xNzcuMjcuMjUxLjI0Niw3YzhmODgxODk0YzMxNDkxYTYwZjUxODcyMWRmMmNmYjUzNWQwOWI2ZGE0NWI5YzA0OTMyNjgwOWYzOTQ0OTlh/vxfmt=hls/h_4e87ba91e00e1eff7a40be8574baa630/var3000000/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Ciudad" tvg-logo="https://i.imgur.com/NMNfL1F.png" group-title="Undefined",TV Ciudad
+https://cdnw3.zetatv.com.uy/live_edge/_definst_/amlst:9/chunklist_w1728915025_b1800000.m3u8?token=4501493f-9f73-4b43-815d-0868fd666895
+#EXTINF:-1 tvg-name="UCL" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Undefined",UCL
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
