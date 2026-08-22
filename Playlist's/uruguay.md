@@ -15,6 +15,6 @@
   </thead>
   <tbody>
     <tr><td>Playlist M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/uruguay.m3u</code></td></tr>
-    <tr><td>Playlist Raw</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/uruguay.m3u</code></td></tr>
+    <tr><td>Playlist Raw</td><td nowrap><code>https://raw.githubusercontent.com/iptv-hydra/iptv-hydra/refs/heads/main/countries/uruguay.m3u</code></td></tr>
   </tbody>
 </table>
