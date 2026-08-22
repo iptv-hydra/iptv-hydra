@@ -9,3 +9,12 @@
 
 ## M3U List
 
+<table>
+  <thead>
+    <tr><th align="left">List Name</th><th align="left">List URL</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Playlist M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/uruguay.m3u</code></td></tr>
+    <tr><td>Playlist Raw</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/uruguay.m3u</code></td></tr>
+  </tbody>
+</table>
