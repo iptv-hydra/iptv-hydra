@@ -6,6 +6,10 @@ To add your list to your IPTV application, you need to choose one of our playlis
 
 ## Countries included
 
+[<img src="https://hatscripts.github.io/circle-flags/flags/ar.svg" width="24">](playlist's/argentina.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/ec.svg" width="24">](playlist's/ecuador.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="24">](playlist's/indonesia.md)
+[<img src="https://hatscripts.github.io/circle-flags/flags/uy.svg" width="24">](playlist's/uruguay.md)
 
 ## The Best Sport
 
