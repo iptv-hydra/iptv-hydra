@@ -21,6 +21,26 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 tvg-name="Cine AR" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",Cine AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="National",Teleamazonas
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+#EXTINF:-1 tvg-name="TC Television" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="National",TC Television
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-name="Ecuavisa Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="National",Ecuavisa Guayaquil
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-name="Ecuavisa Quito" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="National",Ecuavisa Quito
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Ecuador TV" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="National",Ecuador TV
+http://45.224.97.181:9999/EcuadorTV/index.m3u8
+#EXTINF:-1 tvg-name="Oromar TV" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="National",Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-name="Oromar TV+" tvg-logo="https://i.imgur.com/j5Vvxd5.png" group-title="Undefined",Oromar TV+
+https://stream.oromar.tv/hls/camriva/index.m3u8
+#EXTINF:-1 tvg-name="RTS" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Undefined",RTS
+http://177.234.249.178:8888/RTS/index.m3u8
+#EXTINF:-1 tvg-name="Telemar" tvg-logo="https://i.imgur.com/0vX9oJF.png" group-title="Undefined",Telemar
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-name="Ecotel TV" tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Religion",Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="National",RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="National",Indosiar
