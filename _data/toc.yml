@@ -3,7 +3,11 @@
   children:
     - title: "argentina.md"
       url: ""
+    - title: "ecuador.md"
+      url: ""
     - title: "indonesia.md"
+      url: ""
+    - title: "mexico.md"
       url: ""
     - title: "uruguay.md"
       url: ""
