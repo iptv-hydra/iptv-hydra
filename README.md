@@ -20,6 +20,8 @@ To add your list to your IPTV application, you need to choose one of our playlis
 
 You can watch sports with this M3U playlist which includes all sports channels (including those from other countries).
 
+### TV Channels M3U
+
 ## Full list (All channels)
 
 <table>
@@ -29,5 +31,50 @@ You can watch sports with this M3U playlist which includes all sports channels (
   <tbody>
     <tr><td>Playlist M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/total.m3u</code></td></tr>
     <tr><td>Playlist Raw</td><td nowrap><code>https://raw.githubusercontent.com/iptv-hydra/iptv-hydra/refs/heads/main/total.m3u</code></td></tr>
+  </tbody>
+</table>
+
+## Kids Channels
+
+<table>
+  <thead>
+    <tr><th align="left">List Name</th><th align="left">List URL</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Playlist M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/kids.m3u</code></td></tr>
+  </tbody>
+</table>
+
+## American Channels
+
+<table>
+  <thead>
+    <tr><th align="left">List Name</th><th align="left">List URL</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Latin American M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/latam.m3u</code></td></tr>
+    <tr><td>Full Latin American M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/latam.m3u</code></td></tr>
+    <tr><td>Sports Latin American M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/latamsports.m3u</code></td></tr>
+    <tr><td>Kids Latin American M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/latamkids.m3u</code></td></tr>
+    <tr><td>USA News M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/usnews.m3u</code></td></tr>
+    <tr><td>USA Sports M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/ussports.m3u</code></td></tr>
+    <tr><td>Chile Sports M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/chile-sports.m3u</code></td></tr>
+    <tr><td>Chile Kids M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/chile-kids.m3u</code></td></tr>
+    <tr><td>L1 M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/l1.m3u</code></td></tr>
+    <tr><td>HBO M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/latamhbo.m3u</code></td></tr>
+  </tbody>
+</table>
+
+## TDT American Channels
+
+<table>
+  <thead>
+    <tr><th align="left">List Name</th><th align="left">List URL</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>TDT Colombia Boyaca</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/tdt/america/boyaca.m3u</code></td></tr>
+    <tr><td>TDT Colombia Valle de cauca</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/tdt/america/valledecauca.m3u</code></td></tr>
+    <tr><td>TDT Colombia San Andres</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/tdt/america/sanandres.m3u</code></td></tr>
+    <tr><td>TDT Argentina Buenos Aires</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/tdt/america/buenosaires.m3u</code></td></tr>
   </tbody>
 </table>
