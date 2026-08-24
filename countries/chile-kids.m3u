@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ETC TV" tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Kids",ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Kids",NTV
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
