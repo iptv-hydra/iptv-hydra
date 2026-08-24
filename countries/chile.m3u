@@ -1,1 +1,27 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-name="Chilevisión" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="National",Chilevisión
+http://cdn1tlinkgo.tlink.cl/chvhd/mono.m3u8
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="National",TVN
+http://cdn1tlinkgo.tlink.cl/tvnhd/mono.m3u8
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/960px-Canal_13_2025.svg.png" group-title="National",Canal 13
+http://cdn1tlinkgo.tlink.cl/canal13hd/mono.m3u8
+#EXTINF:-1 tvg-name="Mega" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="National",Mega
+http://cdn1tlinkgo.tlink.cl/megahd/mono.m3u8
+#EXTINF:-1 tvg-name="La Red" tvg-logo="https://i.imgur.com/nJOVM6e.png" group-title="National",La Red
+http://cdn1tlinkgo.tlink.cl/laredhd/mono.m3u8
+#EXTINF:-1 tvg-name="TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/TV%2B_%282018%29.png/960px-TV%2B_%282018%29.png" group-title="National",TV+
+http://cdn1tlinkgo.tlink.cl/tvmashd/mono.m3u8
+#EXTINF:-1 tvg-name="TVR" tvg-logo="https://i.postimg.cc/prDRDZw3/TVR-Logo.png" group-title="Undefined",TVR
+http://cdn1tlinkgo.tlink.cl/tvr/mono.m3u8
+#EXTINF:-1 tvg-name="Telecanal" tvg-logo="https://i.imgur.com/3g6SbSt.png" group-title="Undefined",Telecanal
+https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-name="Teletrak" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Sports",Teletrak
+https://cdn1tlinkgo.tlink.cl/teletrak/index.m3u8
+#EXTINF:-1 tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
+http://ultra-premium-pro.xyz:8080/932350310tv/rt1brn/542
+#EXTINF:-1 tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhmMDFjYzNiLTM3YTgtNGJlNC05MGQwLTk2YzBmNDI0YTQwMyIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg3Njc4ODQ4LCJpYXQiOjE3ODc1OTI0NDgsImp0aSI6IjgwMDNiN2RlLTdhMzQtNDUwNC1hZjIxLWFlMGQwZmVmNzNlMSJ9.Rfd6pmC2mluZYst4T5ojx-DGq-tMix2MM0SYkfFmJdQ
+#EXTINF:-1 tvg-name="ETC TV" tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Kids",ETC TV
+http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.imgur.com/NnkSyta.png" group-title="Kids",NTV
+http://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
