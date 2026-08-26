@@ -60,7 +60,7 @@ You can watch sports with this M3U playlist which includes all sports channels (
     <tr><td>USA Sports M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/ussports.m3u</code></td></tr>
     <tr><td>Chile Sports M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/countries/chile-sports.m3u</code></td></tr>
     <tr><td>Chile Kids M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/chile-kids.m3u</code></td></tr>
-    <tr><td>L1 M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/l1.m3u</code></td></tr>
+    <tr><td>L1 M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/L1.m3u</code></td></tr>
     <tr><td>HBO M3U</td><td nowrap><code>https://iptv-hydra.github.io/iptv-hydra/latamhbo.m3u</code></td></tr>
   </tbody>
 </table>
